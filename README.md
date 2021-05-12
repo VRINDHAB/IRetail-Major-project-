@@ -1,0 +1,2 @@
+# IRetail-Major-project-
+IRetail - Smart store with enhanced Security powered by AI In the retail industry intelligent operations like top customer recognition, minimising losses due to shoplifting, emergencies and fraud is key to success.This application integrates to the cctv camera and the deep learning algorithms used to process this images .automated intrusion detection alerts, real-time fire alerts,smart checkout, blacklisted customer alerts, and potentially fraudulent point of sale (POS) transactions are main features
