@@ -1,0 +1,68 @@
+1.1 GENERAL INTRODUCTION 
+In the retail industry intelligent operations like top customer recognition, minimising losses due to shoplifting, emergencies and fraud is key to success.This application integrates to the cctv camera and the deep learning algorithms used to process this images ,automated intrusion detection alerts, real-time fire alerts,smart checkout, blacklisted customer alerts, and potentially fraudulent point of sale (POS) transactions are main features.Dynamic Pricing with machine learning:the price of certain products change over time through an algorithm that considers a variety of pricing variables. These metrics could include the season of the year, as well as supply and demand. With this technology, retailers have more flexibility when generating the right price at the right time without losing sight of their main goals, including profit or revenue optimization. Product locator using image search : search and locate a particular product in the store using image search .the system will collect all available product locations from the live videos from multiple cameras.This is a useful feature for finding misplaced products POS user fraud detection : record POS transaction details on screen as an overlay on video images to reduce fraudulent transactions and employee fraud .To improve the ease and speed of transaction searches face of customer is used to search for customer dispute cases. Smart Checkout System:using self service kiosk users can generate bills by showing products to linked camera, using Google vision products will get identified  . this will reduce the queue. blacklisted customers can't use this system. Count customers and Queue detection: Detect long queues at the checkout in real time and open new lanes to speed up and improve the customer experience, and reduce abandoned purchases. customer recognition:Premium customers who opt to participate in special marketing promotions or other incentives can be identified so staff can provide the right kind of service at the right time. blacklisted customer alerts can also provided at the same time to avoid loss. 
+
+1.2 GOAL OF THE PROJECT 
+
+ 	 	The main goal of the project is improve the security and ease for the customers with the help of the operations like top customer recognition, minimizing 	losses due to hoplifting,checkout automation,trust,queue detection,reduce the use of manpower,increases efficiency . This application integrates to the cctv camera and the deep learning algorithms used to process this images ,automated intrusion detection alerts, real-time fire alerts,smart checkout, blacklisted customer alerts, and potentially fraudulent point of sale (POS) transactions are main features.Dynamic Pricing with machine learning, the price of certain products change over time through an algorithm that considers a variety of pricing variables.All these will automate the working inside a retail shop,Self checkout system ,detection of misplaced objects,dynamic pricing according to the market rate analysis etc are the min highlights thus by increasing the efficiency,decrease the manpower,more convinent to both customers and shop owners.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+ 
+  
+ 
+CHAPTER 2 
+ 
+LITERATURE SURVEY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+2.1   STUDY OF SIMILAR WORK 
+ 
+2.1.1   EXISTING SYSTEM 
+Currently,in the retail shops there is only POS systems,there is not an option for a customer to take part in the billing process and all.In the existing system they can order the list of products,customers can registration,products pricing list,billing,sending sms for the customers etc can be done.This system is automated,even though it needs more manpower than newly developing system. Avoid the need for paperwork and effectively manage your cash flow to ring up sales and keep track on the amount of ready cash available in your stores, automate sales, manage billing but this all needs manpower.Existing system is not upto the technology. 
+2.1.2  DRAWBACKS OF  EXISTING SYSTEM 
+
+❖	Struggling without a contact less shopping solutions 
+❖	Queue detection 
+❖	Data privacy 
+❖	Security issues  
+❖	Over crowding and queuing in shops 
+❖	No time slot reservation  
+❖	Product detection-Misplaced products cannot be identified 
+❖	Genuine and fraud customers cannot be categorized automatically 
+❖	Needs manpower 
+❖	Self checkout system 
